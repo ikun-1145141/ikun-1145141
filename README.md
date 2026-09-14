@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ikun-1145141&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikun-1145141&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-rouge-six-65.vercel.app/api?username=ikun-1145141&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-rouge-six-65.vercel.app/api/top-langs/?username=ikun-1145141&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
